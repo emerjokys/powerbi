@@ -1,0 +1,6652 @@
+<html>
+	<header>
+		<meta http-equiv="Content-Type" content="charset=UTF-8"/>
+	</header>
+	<body>
+		<table>
+			<td colspan="6" align="center" BGCOLOR="66CCCC">CENTROS DE COSTO</td colspan="6" align="center" BGCOLOR="66CCCC">
+		</table>
+		<table border="0">
+			<tr>
+			</tr>
+			<tr>
+			</tr>
+		</table border="0">
+		<table border="0">
+			<tr>
+			</tr>
+		</table border="0">
+		<table border="1">
+			<tr>
+				<td BGCOLOR="99CCCC">C.C.</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">DESCRIPCION</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">CC SUP.</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">COD. EXTENDIDO</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">COD. ESTADO</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">DESC. ESTADO</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">CC SIGUIENTE</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">BLOQUEADO</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">TIPO CC</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">DESC. TIPO CC</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">SUBTIPO CC</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">DESC. SUBTIPO CC</td BGCOLOR="99CCCC">
+				<td BGCOLOR="99CCCC">COD. SIGFE</td BGCOLOR="99CCCC">
+			</tr>
+			<tr>
+				<td> 100000000</td>
+				<td>DIRECCION</td>
+				<td>         0</td>
+				<td>01.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 100000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101000000</td>
+				<td>DIRECCION</td>
+				<td> 100000000</td>
+				<td>01.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 101000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101001000</td>
+				<td>DIRECCION</td>
+				<td> 101000000</td>
+				<td>01.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 101001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101001001</td>
+				<td>DIRECCION</td>
+				<td> 101001000</td>
+				<td>01.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 101001002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>1</td>
+				<td>COMITES Y GRUPOS ASESORES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101002000</td>
+				<td>COMITE DIRECTIVO</td>
+				<td> 101000000</td>
+				<td>01.01.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 101002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101002001</td>
+				<td>COMITE DIRECTIVO</td>
+				<td> 101002000</td>
+				<td>01.01.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 101002002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>1</td>
+				<td>COMITES Y GRUPOS ASESORES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101003000</td>
+				<td>CONSEJO CONSULTIVO</td>
+				<td> 101000000</td>
+				<td>01.01.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 101003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101003001</td>
+				<td>CONSEJO CONSULTIVO</td>
+				<td> 101003000</td>
+				<td>01.01.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 101003002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>1</td>
+				<td>COMITES Y GRUPOS ASESORES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101004000</td>
+				<td>CONSEJOS TECNICOS</td>
+				<td> 101000000</td>
+				<td>01.01.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 101004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101004001</td>
+				<td>CONSEJOS TECNICOS</td>
+				<td> 101004000</td>
+				<td>01.01.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 101004002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>1</td>
+				<td>COMITES Y GRUPOS ASESORES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101005000</td>
+				<td>OTROS COMITES ASESORES</td>
+				<td> 101000000</td>
+				<td>01.01.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 101005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 101005001</td>
+				<td>OTROS COMITES ASESORES</td>
+				<td> 101005000</td>
+				<td>01.01.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 101005002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>1</td>
+				<td>COMITES Y GRUPOS ASESORES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102000000</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td> 100000000</td>
+				<td>01.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 102000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102001000</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td> 102000000</td>
+				<td>01.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 102001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102001001</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td> 102001000</td>
+				<td>01.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 102001002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>2</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102001002</td>
+				<td>ACREDITACION INSTITUCIONAL</td>
+				<td> 102001000</td>
+				<td>01.02.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 102001003</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>2</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102002000</td>
+				<td>AUTORIZACION SANITARIA</td>
+				<td> 102000000</td>
+				<td>01.02.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 102002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102002003</td>
+				<td>AUTORIZACION SANITARIA</td>
+				<td> 102002000</td>
+				<td>01.02.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 102002004</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>2</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102003000</td>
+				<td>GESTION RIESGOS ASISTENCIALES</td>
+				<td> 102000000</td>
+				<td>01.02.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 102003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102003004</td>
+				<td>GESTION RIESGOS ASISTENCIALES</td>
+				<td> 102003000</td>
+				<td>01.02.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 102003005</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>2</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102004000</td>
+				<td>IAAS</td>
+				<td> 102000000</td>
+				<td>01.02.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 102004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102004005</td>
+				<td>IAAS</td>
+				<td> 102004000</td>
+				<td>01.02.004.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 102004006</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>2</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102005000</td>
+				<td>RAD</td>
+				<td> 102000000</td>
+				<td>01.02.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 102005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 102005006</td>
+				<td>RAD</td>
+				<td> 102005000</td>
+				<td>01.02.005.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 102005007</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>2</td>
+				<td>DPTO.SEG/CALIDAD DEL PCTE</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103000000</td>
+				<td>AUDITORIA INTERNA ADM</td>
+				<td> 100000000</td>
+				<td>01.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103001000</td>
+				<td>AUDITORIA INTERNA ADM</td>
+				<td> 103000000</td>
+				<td>01.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103001001</td>
+				<td>AUDITORIA INTERNA ADM</td>
+				<td> 103001000</td>
+				<td>01.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103001002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103002000</td>
+				<td>AUDITORIA INTERNA CLINICA</td>
+				<td> 103000000</td>
+				<td>01.03.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103002001</td>
+				<td>AUDITORIA INTERNA CLINICA</td>
+				<td> 103002000</td>
+				<td>01.03.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103002002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103003000</td>
+				<td>COMUNICACIONES Y RR.PP</td>
+				<td> 103000000</td>
+				<td>01.03.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103003001</td>
+				<td>COMUNICACIONES Y RR.PP</td>
+				<td> 103003000</td>
+				<td>01.03.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103003002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103004000</td>
+				<td>EPIDEMIOLOGIA</td>
+				<td> 103000000</td>
+				<td>01.03.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103004001</td>
+				<td>EPIDEMIOLOGIA</td>
+				<td> 103004000</td>
+				<td>01.03.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103004002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103005000</td>
+				<td>GABINETE</td>
+				<td> 103000000</td>
+				<td>01.03.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103005001</td>
+				<td>GABINETE</td>
+				<td> 103005000</td>
+				<td>01.03.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103005002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103006000</td>
+				<td>OIRS</td>
+				<td> 103000000</td>
+				<td>01.03.006.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103006001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103006001</td>
+				<td>OIRS</td>
+				<td> 103006000</td>
+				<td>01.03.006.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103006002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103007000</td>
+				<td>UNIDAD ASESORIA JURIDICA</td>
+				<td> 103000000</td>
+				<td>01.03.007.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103007001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103007001</td>
+				<td>UNIDAD ASESORIA JURIDICA</td>
+				<td> 103007000</td>
+				<td>01.03.007.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103007002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103008000</td>
+				<td>UNIDAD SERVICIO SOCIAL</td>
+				<td> 103000000</td>
+				<td>01.03.008.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 103008001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 103008001</td>
+				<td>UNIDAD SERVICIO SOCIAL</td>
+				<td> 103008000</td>
+				<td>01.03.008.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 103008002</td>
+				<td>N</td>
+				<td>1</td>
+				<td>DIRECCION</td>
+				<td>3</td>
+				<td>UNIDADES ASESORAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 200000000</td>
+				<td>SUB DIRECCION ADMINISTRATIVA</td>
+				<td>         0</td>
+				<td>02.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 200000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 201000000</td>
+				<td>SUB DIRECCION ADMINISTRATIVA</td>
+				<td> 200000000</td>
+				<td>02.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 201000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 201001000</td>
+				<td>SUB DIRECCION ADMINISTRATIVA</td>
+				<td> 201000000</td>
+				<td>02.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 201001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 201001001</td>
+				<td>SUB DIRECCION ADMINISTRATIVA</td>
+				<td> 201001000</td>
+				<td>02.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 201001002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 201001002</td>
+				<td>CASINO HOV</td>
+				<td> 201001000</td>
+				<td>02.01.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 201001003</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202000000</td>
+				<td>PROCESO DE APOYO LOGISTICO</td>
+				<td> 200000000</td>
+				<td>02.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 202000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202002000</td>
+				<td>DPTO. GESTION ABASTECIMIENTO</td>
+				<td> 202000000</td>
+				<td>02.02.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 202002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202002001</td>
+				<td>DPTO. GESTION ABASTECIMIENTO</td>
+				<td> 202002000</td>
+				<td>02.02.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202002002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202002002</td>
+				<td>UNIDAD BODEGA</td>
+				<td> 202002000</td>
+				<td>02.02.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202002003</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202002003</td>
+				<td>UNIDAD DE COMPRAS</td>
+				<td> 202002000</td>
+				<td>02.02.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202002004</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202002004</td>
+				<td>UNIDAD DE CONVENIOS</td>
+				<td> 202002000</td>
+				<td>02.02.002.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202002005</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202002005</td>
+				<td>STOCK MINIMO UNIDADES CRITICAS</td>
+				<td> 202002000</td>
+				<td>02.02.002.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202002006</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003000</td>
+				<td>DPTO. GESTION FINANCIERA</td>
+				<td> 202000000</td>
+				<td>02.02.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 202003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003001</td>
+				<td>DPTO. GESTION FINANCIERA</td>
+				<td> 202003000</td>
+				<td>02.02.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003002</td>
+				<td>UNIDAD COBRANZAS</td>
+				<td> 202003000</td>
+				<td>02.02.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003003</td>
+				<td>S</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003003</td>
+				<td>UNIDAD COMERCIALIZACION</td>
+				<td> 202003000</td>
+				<td>02.02.003.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003004</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003004</td>
+				<td>UNIDAD CONTABILIDAD</td>
+				<td> 202003000</td>
+				<td>02.02.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003005</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003005</td>
+				<td>UNIDAD RECAUDACION Y COBRANZAS</td>
+				<td> 202003000</td>
+				<td>02.02.003.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003006</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003006</td>
+				<td>UNIDAD DE REMUNERACIONES</td>
+				<td> 202003000</td>
+				<td>02.02.003.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003007</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202003007</td>
+				<td>UNIDAD C. EXISTENCIA E INVENTA</td>
+				<td> 202003000</td>
+				<td>02.02.003.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202003008</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202004000</td>
+				<td>OFICINA GESTION DOCUMENTAL</td>
+				<td> 202000000</td>
+				<td>02.02.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 202004001</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202004001</td>
+				<td>OFICINA GESTION DOCUMENTAL</td>
+				<td> 202004000</td>
+				<td>02.02.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202004002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202005000</td>
+				<td>UNID. GEST/COMPRA EXTRASISTEMA</td>
+				<td> 202000000</td>
+				<td>02.02.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 202005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 202005001</td>
+				<td>UNID. COORD. COMPRA EXTRASIST.</td>
+				<td> 202005000</td>
+				<td>02.02.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 202005002</td>
+				<td>S</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203000000</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td> 200000000</td>
+				<td>02.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 203000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203001000</td>
+				<td>DPTO. GESTION DE ALIMENTACION</td>
+				<td> 203000000</td>
+				<td>02.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 203001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203001001</td>
+				<td>DPTO. GESTION DE ALIMENTACION</td>
+				<td> 203001000</td>
+				<td>02.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203001002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203001002</td>
+				<td>CENTRAL DE ALIMENTACION</td>
+				<td> 203001000</td>
+				<td>02.03.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203001003</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203001003</td>
+				<td>SEDILE</td>
+				<td> 203001000</td>
+				<td>02.03.001.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203001004</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002000</td>
+				<td>DPTO. GESTION DE OPERACIONES</td>
+				<td> 203000000</td>
+				<td>02.03.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 203002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002001</td>
+				<td>DPTO. GESTION DE OPERACIONES</td>
+				<td> 203002000</td>
+				<td>02.03.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203002002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002002</td>
+				<td>UNIDAD INFRAESTRUCTURA</td>
+				<td> 203002000</td>
+				<td>02.03.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203002003</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002003</td>
+				<td>UNIDAD ELECTRICO/CORR.DEBILES</td>
+				<td> 203002000</td>
+				<td>02.03.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203002004</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002004</td>
+				<td>DPTO INGENIERIA CLINICA</td>
+				<td> 203002000</td>
+				<td>02.03.002.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203002005</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002005</td>
+				<td>UNIDAD EQUIPOS INDUSTRIALES</td>
+				<td> 203002000</td>
+				<td>02.03.002.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203002006</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203002006</td>
+				<td>UNIDAD CONTROL CENTRALIZADO</td>
+				<td> 203002000</td>
+				<td>02.03.002.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203002007</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003000</td>
+				<td>DPTO. GESTION SS.GG</td>
+				<td> 203000000</td>
+				<td>02.03.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 203003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003001</td>
+				<td>DPTO. GESTION SS.GG</td>
+				<td> 203003000</td>
+				<td>02.03.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203003002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003002</td>
+				<td>UNIDAD GESTION AMBIENTAL</td>
+				<td> 203003000</td>
+				<td>02.03.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203003003</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003003</td>
+				<td>UNIDAD ASEO Y ORNATO</td>
+				<td> 203003000</td>
+				<td>02.03.003.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203003004</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003004</td>
+				<td>UNIDAD DE LAVANDERIA</td>
+				<td> 203003000</td>
+				<td>02.03.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203003005</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003005</td>
+				<td>UNIDAD SEGURIDAD Y LOGISTIC</td>
+				<td> 203003000</td>
+				<td>02.03.003.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203003006</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203003006</td>
+				<td>UNIDAD REAS</td>
+				<td> 203003000</td>
+				<td>02.03.003.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203003007</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>5</td>
+				<td>PROCESO APOYO LOG/ INDUSTRIAL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203004000</td>
+				<td>UNIDAD MOVILIZACION</td>
+				<td> 203000000</td>
+				<td>02.03.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 203004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203004001</td>
+				<td>UNIDAD MOVILIZACION</td>
+				<td> 203004000</td>
+				<td>02.03.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203004002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203005000</td>
+				<td>DEPTO. GESTIÓN Y ADM CONTRATOS</td>
+				<td> 203000000</td>
+				<td>02.03.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 203005001</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203005001</td>
+				<td>DEPTO. GESTIÓN Y ADM CONTRATOS</td>
+				<td> 203005000</td>
+				<td>02.03.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203005002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 203005002</td>
+				<td>UNID. NUEVOS PROCESOS ADM.</td>
+				<td> 203005000</td>
+				<td>02.03.005.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 203005003</td>
+				<td>S</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 300000000</td>
+				<td>SUB.GESTION CLINICA</td>
+				<td>         0</td>
+				<td>03.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 300000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 301000000</td>
+				<td>SUB.GESTION CLINICA</td>
+				<td> 300000000</td>
+				<td>03.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 301000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 301001000</td>
+				<td>SUB.GESTION CLINICA</td>
+				<td> 301000000</td>
+				<td>03.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 301001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 301001001</td>
+				<td>SUB.GESTION CLINICA</td>
+				<td> 301001000</td>
+				<td>03.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 301001002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302000000</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td> 300000000</td>
+				<td>03.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302001000</td>
+				<td>UNIDAD ANATOMIA PATOLOGICA</td>
+				<td> 302000000</td>
+				<td>03.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302001001</td>
+				<td>UNIDAD ANATOMIA PATOLOGICA</td>
+				<td> 302001000</td>
+				<td>03.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302001002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002000</td>
+				<td>UNIDAD BANCO DE SANGRE Y MT</td>
+				<td> 302000000</td>
+				<td>03.02.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002001</td>
+				<td>UNID. BANCO DE SANGRE Y MT</td>
+				<td> 302002000</td>
+				<td>03.02.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002002</td>
+				<td>MT AFERESIS TERAPEUTICA</td>
+				<td> 302002000</td>
+				<td>03.02.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002003</td>
+				<td>MT ATENCION DONANTES DE SANGRE</td>
+				<td> 302002000</td>
+				<td>03.02.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002004</td>
+				<td>MT LAB INMUNOHEMATOLOGIA</td>
+				<td> 302002000</td>
+				<td>03.02.002.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002005</td>
+				<td>MT LABORATORIO  SEROLOGIA</td>
+				<td> 302002000</td>
+				<td>03.02.002.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002006</td>
+				<td>MT AMBULATORIA</td>
+				<td> 302002000</td>
+				<td>03.02.002.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002007</td>
+				<td>MT ATENCION CERRADA</td>
+				<td> 302002000</td>
+				<td>03.02.002.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302002008</td>
+				<td>MT PROD Y ALMAC HEMOCOMPENTES</td>
+				<td> 302002000</td>
+				<td>03.02.002.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302002009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003000</td>
+				<td>UCMA</td>
+				<td> 302000000</td>
+				<td>03.02.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003001</td>
+				<td>UCMA</td>
+				<td> 302003000</td>
+				<td>03.02.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003002</td>
+				<td>UCMA CIRUGIA</td>
+				<td> 302003000</td>
+				<td>03.02.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003003</td>
+				<td>UCMA CIRUGIA CARDIOVASCULAR</td>
+				<td> 302003000</td>
+				<td>03.02.003.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003004</td>
+				<td>UCMA CIRUGIA PEDIATRICA</td>
+				<td> 302003000</td>
+				<td>03.02.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003005</td>
+				<td>UCMA GINECOLOGIA</td>
+				<td> 302003000</td>
+				<td>03.02.003.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003006</td>
+				<td>UCMA MAXILO FACIAL</td>
+				<td> 302003000</td>
+				<td>03.02.003.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003007</td>
+				<td>UCMA OFTAMOLOGIA</td>
+				<td> 302003000</td>
+				<td>03.02.003.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003008</td>
+				<td>UCMA OTORRINO</td>
+				<td> 302003000</td>
+				<td>03.02.003.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003009</td>
+				<td>UCMA PYXIS</td>
+				<td> 302003000</td>
+				<td>03.02.003.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003010</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003010</td>
+				<td>UCMA TRAUMATOLOGIA</td>
+				<td> 302003000</td>
+				<td>03.02.003.010</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003011</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302003011</td>
+				<td>UCMA UROLOGIA</td>
+				<td> 302003000</td>
+				<td>03.02.003.011</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302003012</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004000</td>
+				<td>UNID. PABELLON/RECUPERACION</td>
+				<td> 302000000</td>
+				<td>03.02.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004001</td>
+				<td>UNID. PABELLON/RECUPERACION</td>
+				<td> 302004000</td>
+				<td>03.02.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004002</td>
+				<td>PABELLON MEDSTATION</td>
+				<td> 302004000</td>
+				<td>03.02.004.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004003</td>
+				<td>PABELLON 1</td>
+				<td> 302004000</td>
+				<td>03.02.004.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004004</td>
+				<td>PABELLON 2</td>
+				<td> 302004000</td>
+				<td>03.02.004.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004005</td>
+				<td>PABELLON 3</td>
+				<td> 302004000</td>
+				<td>03.02.004.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004006</td>
+				<td>PABELLON 4</td>
+				<td> 302004000</td>
+				<td>03.02.004.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004007</td>
+				<td>PABELLON 5</td>
+				<td> 302004000</td>
+				<td>03.02.004.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004008</td>
+				<td>PABELLON 6</td>
+				<td> 302004000</td>
+				<td>03.02.004.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004009</td>
+				<td>PABELLON 7</td>
+				<td> 302004000</td>
+				<td>03.02.004.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004010</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302004010</td>
+				<td>PABELLON PYXIS</td>
+				<td> 302004000</td>
+				<td>03.02.004.010</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302004011</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005000</td>
+				<td>UPA</td>
+				<td> 302000000</td>
+				<td>03.02.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005001</td>
+				<td>UPA</td>
+				<td> 302005000</td>
+				<td>03.02.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005002</td>
+				<td>UPA PAB PROCED CIRUGIA MENOR</td>
+				<td> 302005000</td>
+				<td>03.02.005.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005003</td>
+				<td>UPA PROCED BRONCOPULMONAR</td>
+				<td> 302005000</td>
+				<td>03.02.005.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005004</td>
+				<td>UPA PROCED CARDIOLOGIA</td>
+				<td> 302005000</td>
+				<td>03.02.005.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005005</td>
+				<td>UPA PROCED DENTAL/MAXILO</td>
+				<td> 302005000</td>
+				<td>03.02.005.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005006</td>
+				<td>UPA PROCED UROLOGIA</td>
+				<td> 302005000</td>
+				<td>03.02.005.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005007</td>
+				<td>UPA ENDOSCOPIA/GASTROENTEROLOG</td>
+				<td> 302005000</td>
+				<td>03.02.005.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302005008</td>
+				<td>UPA PYXIS</td>
+				<td> 302005000</td>
+				<td>03.02.005.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302005009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006000</td>
+				<td>UNID. FARMACIA Y PROTESIS</td>
+				<td> 302000000</td>
+				<td>03.02.006.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302006001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006001</td>
+				<td>UNID. FARMACIA Y PROTESIS</td>
+				<td> 302006000</td>
+				<td>03.02.006.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006002</td>
+				<td>FARMACIA AT ABIERTA</td>
+				<td> 302006000</td>
+				<td>03.02.006.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006003</td>
+				<td>FARMACIA AT CERRADA</td>
+				<td> 302006000</td>
+				<td>03.02.006.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006004</td>
+				<td>FARMACIA AYUDAS TECNICAS</td>
+				<td> 302006000</td>
+				<td>03.02.006.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006005</td>
+				<td>FARMACIA FARMACOS CONTROLADOS</td>
+				<td> 302006000</td>
+				<td>03.02.006.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006006</td>
+				<td>FARMACIA PROGRAMAS VIH</td>
+				<td> 302006000</td>
+				<td>03.02.006.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302006007</td>
+				<td>FARMACIA UNIDAD PREPARADOS</td>
+				<td> 302006000</td>
+				<td>03.02.006.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302006008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007000</td>
+				<td>UNID. IMAGENOLOGIA</td>
+				<td> 302000000</td>
+				<td>03.02.007.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302007001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007001</td>
+				<td>UNID. IMAGENOLOGIA</td>
+				<td> 302007000</td>
+				<td>03.02.007.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302007002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007002</td>
+				<td>IMAGENOLOGIA ECOGRAFIAS</td>
+				<td> 302007000</td>
+				<td>03.02.007.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302007003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007003</td>
+				<td>IMAGENOLOGIA RX SIMPLES</td>
+				<td> 302007000</td>
+				<td>03.02.007.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302007004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007004</td>
+				<td>IMAGENOLOGIA RX COMPLEJOS</td>
+				<td> 302007000</td>
+				<td>03.02.007.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302007005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007005</td>
+				<td>IMAGENOLOGIA TAC</td>
+				<td> 302007000</td>
+				<td>03.02.007.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302007006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302007006</td>
+				<td>IMAGENOLOGIA OTROS</td>
+				<td> 302007000</td>
+				<td>03.02.007.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302007007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008000</td>
+				<td>UNID. LABORATORIO</td>
+				<td> 302000000</td>
+				<td>03.02.008.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 302008001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008001</td>
+				<td>UNID. LABORATORIO</td>
+				<td> 302008000</td>
+				<td>03.02.008.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008002</td>
+				<td>LAB. BACTERIOLOGIA - VDRL</td>
+				<td> 302008000</td>
+				<td>03.02.008.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008003</td>
+				<td>LABORATORIO BIOLOGIA MOLECULAR</td>
+				<td> 302008000</td>
+				<td>03.02.008.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008004</td>
+				<td>LAB. BIOQUIMICA - INMUNOLOGIA</td>
+				<td> 302008000</td>
+				<td>03.02.008.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008005</td>
+				<td>LAB. PARASITOLOGIA - ORINA</td>
+				<td> 302008000</td>
+				<td>03.02.008.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008006</td>
+				<td>LAB. HEMATOLOGIA Y COAGULACION</td>
+				<td> 302008000</td>
+				<td>03.02.008.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008007</td>
+				<td>LABORATORIO TBC - CHAGAS</td>
+				<td> 302008000</td>
+				<td>03.02.008.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 302008008</td>
+				<td>LABORATORIO VIROLOGIA</td>
+				<td> 302008000</td>
+				<td>03.02.008.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 302008009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>6</td>
+				<td>PROCESO APOYO DIAG/TERAPEUTICO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303000000</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td> 300000000</td>
+				<td>03.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 303000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303001000</td>
+				<td>AREA DE SALUD MENTAL</td>
+				<td> 303000000</td>
+				<td>03.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 303001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303001001</td>
+				<td>CENTRO DE SALUD MENTAL (CESAM)</td>
+				<td> 303001000</td>
+				<td>03.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303001002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303001002</td>
+				<td>HOSPITAL DIA ADULTO</td>
+				<td> 303001000</td>
+				<td>03.03.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303001003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303001003</td>
+				<td>POLICLINICO PSIQUIATRIA ADULTO</td>
+				<td> 303001000</td>
+				<td>03.03.001.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303001004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303001004</td>
+				<td>POLICLINICO PS/INFANTO ADOLESC</td>
+				<td> 303001000</td>
+				<td>03.03.001.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303001005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002000</td>
+				<td>ESPECIALIDADES MEDICAS</td>
+				<td> 303000000</td>
+				<td>03.03.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 303002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002001</td>
+				<td>SERVICIO HEMODIALISIS Y NEFROL</td>
+				<td> 303002000</td>
+				<td>03.03.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002002</td>
+				<td>PYXIS HEMODIALISIS/NEFROLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002003</td>
+				<td>SERVICIO MED.FISICA/REHABILITA</td>
+				<td> 303002000</td>
+				<td>03.03.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002004</td>
+				<td>SERVICIO NUTRICION Y DIETETICA</td>
+				<td> 303002000</td>
+				<td>03.03.002.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002005</td>
+				<td>CAE</td>
+				<td> 303002000</td>
+				<td>03.03.002.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002006</td>
+				<td>CAE HEMATO ONCOLOGICA</td>
+				<td> 303002000</td>
+				<td>03.03.002.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002007</td>
+				<td>CAE ALIVIO DOLOR Y CP</td>
+				<td> 303002000</td>
+				<td>03.03.002.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002008</td>
+				<td>CAE OFTALMOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002009</td>
+				<td>CAE OTORRINOLARINGOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002010</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002010</td>
+				<td>CAE BRONCOPULMONAR ADULTO</td>
+				<td> 303002000</td>
+				<td>03.03.002.010</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002011</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002011</td>
+				<td>CAE CIRUGIA ABDOMINAL</td>
+				<td> 303002000</td>
+				<td>03.03.002.011</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002012</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002012</td>
+				<td>CAE CIRUGIA CABEZA CUELLO</td>
+				<td> 303002000</td>
+				<td>03.03.002.012</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002013</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002013</td>
+				<td>CAE CIRUGIA DE TORAX</td>
+				<td> 303002000</td>
+				<td>03.03.002.013</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002014</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002014</td>
+				<td>CAE CIRUGIA DIGESTIVA ALTA</td>
+				<td> 303002000</td>
+				<td>03.03.002.014</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002015</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002015</td>
+				<td>CAE CIRUGIA GENERAL ADULTO</td>
+				<td> 303002000</td>
+				<td>03.03.002.015</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002016</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002016</td>
+				<td>CAE CIRUGIA VASCULAR</td>
+				<td> 303002000</td>
+				<td>03.03.002.016</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002017</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002017</td>
+				<td>CAE GASTROENTEROLOGIA ADULTO</td>
+				<td> 303002000</td>
+				<td>03.03.002.017</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002018</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002018</td>
+				<td>CAE GINECOLOGIA-OBSTETRICA</td>
+				<td> 303002000</td>
+				<td>03.03.002.018</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002019</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002019</td>
+				<td>CAE INFECTOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.019</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002020</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002020</td>
+				<td>CAE INMUNOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.020</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002021</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002021</td>
+				<td>CAE NEUROLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.021</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002022</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002022</td>
+				<td>CAE ONCOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.022</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002023</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002023</td>
+				<td>CAE PEDIATRIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.023</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002024</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002024</td>
+				<td>GPA E IDENTIDAD DE GENERO</td>
+				<td> 303002000</td>
+				<td>03.03.002.024</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002025</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002025</td>
+				<td>CAE ESPECIALIDADES QX</td>
+				<td> 303002000</td>
+				<td>03.03.002.025</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002026</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002026</td>
+				<td>CAE CARDIOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.026</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002027</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002027</td>
+				<td>CAE DERMATOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.027</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002028</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002028</td>
+				<td>CAE ENDOCRINOLOGIA-DIABETES</td>
+				<td> 303002000</td>
+				<td>03.03.002.028</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002029</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002029</td>
+				<td>CAE GINECOLOGIA INFANTO ADOLES</td>
+				<td> 303002000</td>
+				<td>03.03.002.029</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002030</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002030</td>
+				<td>CAE MEDICINA INTERNA</td>
+				<td> 303002000</td>
+				<td>03.03.002.030</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002031</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002031</td>
+				<td>CAE REUMATOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.031</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002032</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303002032</td>
+				<td>CAE TRAUMATOLOGIA</td>
+				<td> 303002000</td>
+				<td>03.03.002.032</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303002033</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003000</td>
+				<td>CAE ODONTOLOGIA</td>
+				<td> 303000000</td>
+				<td>03.03.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 303003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003001</td>
+				<td>CAE ODONTOLOGIA</td>
+				<td> 303003000</td>
+				<td>03.03.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003002</td>
+				<td>CAE ODONT CONSULTAS</td>
+				<td> 303003000</td>
+				<td>03.03.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003003</td>
+				<td>CAE CIRUGIA BUCAL</td>
+				<td> 303003000</td>
+				<td>03.03.003.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003004</td>
+				<td>CAE CIRUGIA Y TMT MAXILOFACIAL</td>
+				<td> 303003000</td>
+				<td>03.03.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003005</td>
+				<td>CAE ENDODONCIA</td>
+				<td> 303003000</td>
+				<td>03.03.003.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003006</td>
+				<td>CAE ODONTOPEDIATRIA</td>
+				<td> 303003000</td>
+				<td>03.03.003.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003007</td>
+				<td>CAE OPERATORIA</td>
+				<td> 303003000</td>
+				<td>03.03.003.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003008</td>
+				<td>CAE ORTODONCIA/ORTOPEDIA</td>
+				<td> 303003000</td>
+				<td>03.03.003.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003009</td>
+				<td>CAE PERIDONCIA</td>
+				<td> 303003000</td>
+				<td>03.03.003.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003010</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003010</td>
+				<td>CAE REHABILITACION ORAL</td>
+				<td> 303003000</td>
+				<td>03.03.003.010</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003011</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 303003011</td>
+				<td>CAE IMPLANTOLOGIA MAXILOFACIAL</td>
+				<td> 303003000</td>
+				<td>03.03.003.011</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 303003012</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>7</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304000000</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td> 300000000</td>
+				<td>03.04.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001000</td>
+				<td>SERV.GINECOLOGIA/OBSTETRICIA</td>
+				<td> 304000000</td>
+				<td>03.04.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001001</td>
+				<td>SERV.GINECOLOGIA/OBSTETRICIA</td>
+				<td> 304001000</td>
+				<td>03.04.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001002</td>
+				<td>SERVICIO GINECOLOGIA</td>
+				<td> 304001000</td>
+				<td>03.04.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001003</td>
+				<td>PYXIS GINECOLOGIA</td>
+				<td> 304001000</td>
+				<td>03.04.001.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001004</td>
+				<td>SERVICIO OBSTETRICIA</td>
+				<td> 304001000</td>
+				<td>03.04.001.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001005</td>
+				<td>PYXIS OBSTETRICIA</td>
+				<td> 304001000</td>
+				<td>03.04.001.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001006</td>
+				<td>SALA PREPARTOS/PARTOS/CESAREAS</td>
+				<td> 304001000</td>
+				<td>03.04.001.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001007</td>
+				<td>PYXIS PARTO</td>
+				<td> 304001000</td>
+				<td>03.04.001.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304001008</td>
+				<td>CHILE CRECE CONTIGO</td>
+				<td> 304001000</td>
+				<td>03.04.001.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304001009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002000</td>
+				<td>SERVICIO MEDICO QUIRURGICO</td>
+				<td> 304000000</td>
+				<td>03.04.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002001</td>
+				<td>SERVICIO MEDICO QUIRURGICO</td>
+				<td> 304002000</td>
+				<td>03.04.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002002</td>
+				<td>MQ1 (QUIRURGICA ADULTO)</td>
+				<td> 304002000</td>
+				<td>03.04.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002003</td>
+				<td>PYXIS MQ1 (QX ADULTO)</td>
+				<td> 304002000</td>
+				<td>03.04.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002004</td>
+				<td>MQ2 (ESPECIALIDADES QUIRURGICA</td>
+				<td> 304002000</td>
+				<td>03.04.002.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002005</td>
+				<td>PYXIS MQ2 (ESPECIALIDADES QX)</td>
+				<td> 304002000</td>
+				<td>03.04.002.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002006</td>
+				<td>MQ3 (MEDICA ADULTO)</td>
+				<td> 304002000</td>
+				<td>03.04.002.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002007</td>
+				<td>PYXIS MQ3 EST.1(MEDICA ADULTO)</td>
+				<td> 304002000</td>
+				<td>03.04.002.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002008</td>
+				<td>PYXIS MQ3 EST.2(MEDICA ADULTO)</td>
+				<td> 304002000</td>
+				<td>03.04.002.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304002009</td>
+				<td>MEDSTATION MQ3 (MEDICA ADULTO)</td>
+				<td> 304002000</td>
+				<td>03.04.002.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304002010</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304003000</td>
+				<td>SERVICIO M.Q PEDIÁTRICO</td>
+				<td> 304000000</td>
+				<td>03.04.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304003001</td>
+				<td>SERVICIO NEONATOLOGIA</td>
+				<td> 304003000</td>
+				<td>03.04.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304003002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304003002</td>
+				<td>SERVICIO PEDIATRIA</td>
+				<td> 304003000</td>
+				<td>03.04.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304003003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304003003</td>
+				<td>MEDSTATION MQ PEDIÁTRICA</td>
+				<td> 304003000</td>
+				<td>03.04.003.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304003004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304003004</td>
+				<td>PYXIS MQ PEDIATRIA</td>
+				<td> 304003000</td>
+				<td>03.04.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304003005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304003005</td>
+				<td>PYXIS NEONATOLOGIA</td>
+				<td> 304003000</td>
+				<td>03.04.003.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304003006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304004000</td>
+				<td>UTI NEOPEDIATRICA</td>
+				<td> 304000000</td>
+				<td>03.04.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304004001</td>
+				<td>UTI NEONATOLOGIA</td>
+				<td> 304004000</td>
+				<td>03.04.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304004002</td>
+				<td>S</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304004002</td>
+				<td>UTI PEDIATRICA</td>
+				<td> 304004000</td>
+				<td>03.04.004.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304004003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304004003</td>
+				<td>PYXIS NEOPEDIATRIA</td>
+				<td> 304004000</td>
+				<td>03.04.004.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304004004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304005000</td>
+				<td>SERVICIO PENSIONADO</td>
+				<td> 304000000</td>
+				<td>03.04.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304005001</td>
+				<td>SERVICIO PENSIONADO</td>
+				<td> 304005000</td>
+				<td>03.04.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304005002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304005002</td>
+				<td>PYXIS PENSIONADO</td>
+				<td> 304005000</td>
+				<td>03.04.005.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304005003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304006000</td>
+				<td>HOSPITALIZACION DOMICILIARIA</td>
+				<td> 304000000</td>
+				<td>03.04.006.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304006001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304006001</td>
+				<td>HOSPITALIZACION DOMICILIARIA</td>
+				<td> 304006000</td>
+				<td>03.04.006.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304006002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304006002</td>
+				<td>PYXIS HOSP.DOMICILIARIA HD</td>
+				<td> 304006000</td>
+				<td>03.04.006.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304006003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304007000</td>
+				<td>UHCIP</td>
+				<td> 304000000</td>
+				<td>03.04.007.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304007001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304007001</td>
+				<td>UHCIP ADULTO</td>
+				<td> 304007000</td>
+				<td>03.04.007.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304007002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304007002</td>
+				<td>UHCIP INFANTO ADOLESCENTE</td>
+				<td> 304007000</td>
+				<td>03.04.007.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304007003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304007003</td>
+				<td>PYXIS UHCIP INFANTO ADOLESCENT</td>
+				<td> 304007000</td>
+				<td>03.04.007.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304007004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304007004</td>
+				<td>PYXIS UHCIP ADULTO</td>
+				<td> 304007000</td>
+				<td>03.04.007.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304007005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304008000</td>
+				<td>UNID. PCTE CRITICO (UPC)ADULTO</td>
+				<td> 304000000</td>
+				<td>03.04.008.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 304008001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304008001</td>
+				<td>UNID. PCTE CRITICO (UPC)ADULTO</td>
+				<td> 304008000</td>
+				<td>03.04.008.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304008002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304008002</td>
+				<td>U.CUIDADOS INTENSIVOS (UCI)</td>
+				<td> 304008000</td>
+				<td>03.04.008.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304008003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304008003</td>
+				<td>U.TRATAMIENTO INTENSIVO (UTI)</td>
+				<td> 304008000</td>
+				<td>03.04.008.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304008004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304008004</td>
+				<td>PYXIS UPC EST.1</td>
+				<td> 304008000</td>
+				<td>03.04.008.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304008005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 304008005</td>
+				<td>PYXIS UPC EST.2</td>
+				<td> 304008000</td>
+				<td>03.04.008.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 304008006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>8</td>
+				<td>PROCESO AT. CERRADA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305000000</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td> 300000000</td>
+				<td>03.05.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 305000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009000</td>
+				<td>UNIDAD EMERGENCIA</td>
+				<td> 305000000</td>
+				<td>03.05.009.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 305009001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009001</td>
+				<td>UNIDAD EMERGENCIA</td>
+				<td> 305009000</td>
+				<td>03.05.009.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009002</td>
+				<td>EMERGENCIA ADULTO</td>
+				<td> 305009000</td>
+				<td>03.05.009.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009003</td>
+				<td>EMERGENCIA DE LA MUJER</td>
+				<td> 305009000</td>
+				<td>03.05.009.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009004</td>
+				<td>EMERGENCIA PEDIATRICA</td>
+				<td> 305009000</td>
+				<td>03.05.009.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009005</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009005</td>
+				<td>MEDSTATION EMERGENCIA OBSERVAC</td>
+				<td> 305009000</td>
+				<td>03.05.009.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009006</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009006</td>
+				<td>MEDSTATION EMERGENCIA PEDIATRI</td>
+				<td> 305009000</td>
+				<td>03.05.009.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009007</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009007</td>
+				<td>MEDSTATION EMERGENCIA REANIMAC</td>
+				<td> 305009000</td>
+				<td>03.05.009.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009008</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 305009008</td>
+				<td>PYXIS EMERGENCIA OBSERVACION</td>
+				<td> 305009000</td>
+				<td>03.05.009.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 305009009</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>9</td>
+				<td>PROCESO AT. DE EMERGENCIAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306000000</td>
+				<td>GESTION DE PACIENTES</td>
+				<td> 300000000</td>
+				<td>03.06.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 306000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306001000</td>
+				<td>GESTION DE PACIENTES</td>
+				<td> 306000000</td>
+				<td>03.06.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 306001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306001001</td>
+				<td>GESTION DE PACIENTES</td>
+				<td> 306001000</td>
+				<td>03.06.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306001002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306002000</td>
+				<td>GESTION PCTES MATRONERIA</td>
+				<td> 306000000</td>
+				<td>03.06.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 306002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306002001</td>
+				<td>GESTION PCTES MATRONERIA</td>
+				<td> 306002000</td>
+				<td>03.06.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306002002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306002002</td>
+				<td>UNIDAD DE PARTO</td>
+				<td> 306002000</td>
+				<td>03.06.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306002003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306002003</td>
+				<td>URGENCIA GINECO OBSTETRA (UGO)</td>
+				<td> 306002000</td>
+				<td>03.06.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306002004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306003000</td>
+				<td>UNID. GESTION PCTES PRE-QX</td>
+				<td> 306000000</td>
+				<td>03.06.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 306003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306003001</td>
+				<td>GESTION PCTES LE IQ NO GES</td>
+				<td> 306003000</td>
+				<td>03.06.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306003002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306003002</td>
+				<td>GESTION PCTES LE IQ GES</td>
+				<td> 306003000</td>
+				<td>03.06.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306003003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306004000</td>
+				<td>UNID. GEST PCTE HOSPITALIZADO</td>
+				<td> 306000000</td>
+				<td>03.06.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 306004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306004001</td>
+				<td>GESTION DE CAMAS</td>
+				<td> 306004000</td>
+				<td>03.06.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306004002</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306004002</td>
+				<td>GESTION PCTE.HOSPITALIZADOS</td>
+				<td> 306004000</td>
+				<td>03.06.004.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306004003</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 306004003</td>
+				<td>GESTION TRASLADO PACIENTES</td>
+				<td> 306004000</td>
+				<td>03.06.004.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 306004004</td>
+				<td>N</td>
+				<td>3</td>
+				<td>SUB. GESTION CLINICA</td>
+				<td>10</td>
+				<td>GESTION DE PACIENTES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 400000000</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>         0</td>
+				<td>04.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 400000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 401000000</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td> 400000000</td>
+				<td>04.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 401000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 401001000</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td> 401000000</td>
+				<td>04.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 401001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 401001001</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td> 401001000</td>
+				<td>04.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 401001002</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>11</td>
+				<td>ESTERILIZACION</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 401001002</td>
+				<td>ENFERMERA SUPERVISORA CAE</td>
+				<td> 401001000</td>
+				<td>04.01.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 401001003</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 402000000</td>
+				<td>ESTERILIZACION</td>
+				<td> 400000000</td>
+				<td>04.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 402000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 402001000</td>
+				<td>ESTERILIZACION</td>
+				<td> 402000000</td>
+				<td>04.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 402001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 402001001</td>
+				<td>ESTERILIZACION</td>
+				<td> 402001000</td>
+				<td>04.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 402001002</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>11</td>
+				<td>ESTERILIZACION</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403000000</td>
+				<td>ENFERMERA SUPERVISORA CAE</td>
+				<td> 400000000</td>
+				<td>04.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 403000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001000</td>
+				<td>ENFERMERA SUPERVISORA CAE</td>
+				<td> 403000000</td>
+				<td>04.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 403001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001001</td>
+				<td>CAE CURACIONES</td>
+				<td> 403001000</td>
+				<td>04.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001002</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001002</td>
+				<td>CAE PCTE DE O2 DOMICILIARIO</td>
+				<td> 403001000</td>
+				<td>04.03.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001003</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001003</td>
+				<td>CAE PACIENTES DE PNI</td>
+				<td> 403001000</td>
+				<td>04.03.001.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001004</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001004</td>
+				<td>CAE PCTE POLICLINICO TACO</td>
+				<td> 403001000</td>
+				<td>04.03.001.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001005</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001005</td>
+				<td>CAE PCTE LEY RICARTE SOTO</td>
+				<td> 403001000</td>
+				<td>04.03.001.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001006</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001006</td>
+				<td>CAE PCTE NEFRO/PRETRANSPLANTE</td>
+				<td> 403001000</td>
+				<td>04.03.001.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001007</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001007</td>
+				<td>CAE PACIENTES ONCOLOGICOS</td>
+				<td> 403001000</td>
+				<td>04.03.001.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001008</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001008</td>
+				<td>CAE PROGRAMA CHAGAS</td>
+				<td> 403001000</td>
+				<td>04.03.001.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001009</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001009</td>
+				<td>CAE PROG.SALUD CARDIOVASCULAR</td>
+				<td> 403001000</td>
+				<td>04.03.001.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001010</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001010</td>
+				<td>CAE PROG.DIABETES TIPO1</td>
+				<td> 403001000</td>
+				<td>04.03.001.010</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001011</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001011</td>
+				<td>CAE PROGRAMA NANEA</td>
+				<td> 403001000</td>
+				<td>04.03.001.011</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001012</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001012</td>
+				<td>CAE GESTION TBC VIH</td>
+				<td> 403001000</td>
+				<td>04.03.001.012</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001013</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001013</td>
+				<td>CAE PROGRAMAS ESPECIALES</td>
+				<td> 403001000</td>
+				<td>04.03.001.013</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001014</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001014</td>
+				<td>CAE PROCEDIMIENTOS</td>
+				<td> 403001000</td>
+				<td>04.03.001.014</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001015</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001015</td>
+				<td>CAE TOMA DE MUESTRA</td>
+				<td> 403001000</td>
+				<td>04.03.001.015</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001016</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001016</td>
+				<td>CAE ENCEFALOGRAMA</td>
+				<td> 403001000</td>
+				<td>04.03.001.016</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001017</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td>12</td>
+				<td>PROCESO AT. AMBULATORIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001017</td>
+				<td>UNIDAD PARTICIPACION CIUDADANA</td>
+				<td> 403001000</td>
+				<td>04.03.001.017</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001018</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001018</td>
+				<td>SUBDEPARTAMENTO AT CERRADA</td>
+				<td> 403001000</td>
+				<td>04.03.001.018</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001019</td>
+				<td>N</td>
+				<td>4</td>
+				<td>SUB.GES.CUIDADOS ENFERMERIA</td>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 403001019</td>
+				<td>SUB DPTO CUIDADOS CRITICOS</td>
+				<td> 403001000</td>
+				<td>04.03.001.019</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 403001020</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 500000000</td>
+				<td>SUB.GG Y DD DE LAS PERSONAS</td>
+				<td>         0</td>
+				<td>05.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 500000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 501000000</td>
+				<td>SUB.GG Y DD DE LAS PERSONAS</td>
+				<td> 500000000</td>
+				<td>05.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 501000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 501001000</td>
+				<td>SUB.GG Y DD DE LAS PERSONAS</td>
+				<td> 501000000</td>
+				<td>05.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 501001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 501001001</td>
+				<td>SUB.GG Y DD DE LAS PERSONAS</td>
+				<td> 501001000</td>
+				<td>05.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 501001002</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502000000</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td> 500000000</td>
+				<td>05.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 502000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001000</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td> 502000000</td>
+				<td>05.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 502001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001001</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td> 502001000</td>
+				<td>05.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001002</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001002</td>
+				<td>JARDIN INFANTIL</td>
+				<td> 502001000</td>
+				<td>05.02.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001003</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001003</td>
+				<td>CLUB ESCOLAR</td>
+				<td> 502001000</td>
+				<td>05.02.001.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001004</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001004</td>
+				<td>SALA CUNA</td>
+				<td> 502001000</td>
+				<td>05.02.001.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001005</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001005</td>
+				<td>UNIDAD BIENESTAR</td>
+				<td> 502001000</td>
+				<td>05.02.001.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001006</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001006</td>
+				<td>USO Y PREVENCION DE RIESGO</td>
+				<td> 502001000</td>
+				<td>05.02.001.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001007</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001007</td>
+				<td>UNIDAD SALUD FUNCIONARIA</td>
+				<td> 502001000</td>
+				<td>05.02.001.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001008</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001008</td>
+				<td>CAE SALUD OCUPACIONAL</td>
+				<td> 502001000</td>
+				<td>05.02.001.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001009</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502001009</td>
+				<td>CODIGO DISPONIBLE</td>
+				<td> 502001000</td>
+				<td>05.02.001.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502001010</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>13</td>
+				<td>DPTO.CALIDAD VIDA FUNCIONARIA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502002000</td>
+				<td>DPTO. DESARROLLO DE PERSONAS</td>
+				<td> 502000000</td>
+				<td>05.02.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 502002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502002001</td>
+				<td>DPTO. DESARROLLO DE PERSONAS</td>
+				<td> 502002000</td>
+				<td>05.02.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502002002</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>14</td>
+				<td>DPTO. DESARROLLO DE PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502002002</td>
+				<td>UNID. CLIMA ORGANIZACIONAL</td>
+				<td> 502002000</td>
+				<td>05.02.002.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502002003</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>14</td>
+				<td>DPTO. DESARROLLO DE PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502002003</td>
+				<td>UNID. DESARROLLO COMPETENCIAS</td>
+				<td> 502002000</td>
+				<td>05.02.002.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502002004</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>14</td>
+				<td>DPTO. DESARROLLO DE PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502002004</td>
+				<td>UNID. GESTION DE INGRESOS</td>
+				<td> 502002000</td>
+				<td>05.02.002.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502002005</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>14</td>
+				<td>DPTO. DESARROLLO DE PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003000</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td> 502000000</td>
+				<td>05.02.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 502003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003001</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td> 502003000</td>
+				<td>05.02.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003002</td>
+				<td>N</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003002</td>
+				<td>UNID. CONTROL ASISTENCIA</td>
+				<td> 502003000</td>
+				<td>05.02.003.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003003</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003003</td>
+				<td>UNID. GESTION AUSENTISMO</td>
+				<td> 502003000</td>
+				<td>05.02.003.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003004</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003004</td>
+				<td>UNID. GESTION DE CONTRATOS</td>
+				<td> 502003000</td>
+				<td>05.02.003.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003005</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003005</td>
+				<td>UNID. GESTION DE REEMPLAZOS</td>
+				<td> 502003000</td>
+				<td>05.02.003.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003006</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003006</td>
+				<td>UNIDAD PROCESOS ADMINISTRATIVO</td>
+				<td> 502003000</td>
+				<td>05.02.003.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003007</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 502003007</td>
+				<td>UNIDAD CONTRATOS HONORARIO</td>
+				<td> 502003000</td>
+				<td>05.02.003.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 502003008</td>
+				<td>S</td>
+				<td>5</td>
+				<td>SUB. GESTION DE LAS PERSONAS</td>
+				<td>15</td>
+				<td>DPTO. GESTION DE LAS PERSONAS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 600000000</td>
+				<td>SUB.GESTION HOSPITALARIA</td>
+				<td>         0</td>
+				<td>06.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 600000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 601000000</td>
+				<td>SUB.GESTION HOSPITALARIA</td>
+				<td> 600000000</td>
+				<td>06.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 601000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 601001000</td>
+				<td>SUB.GESTION HOSPITALARIA</td>
+				<td> 601000000</td>
+				<td>06.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 601001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 601001001</td>
+				<td>SUB.GESTION HOSPITALARIA</td>
+				<td> 601001000</td>
+				<td>06.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 601001002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>15</td>
+				<td>DPTO. ANALISIS CLINICO GRD</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 602000000</td>
+				<td>DPTO. ANALISIS CLINICO GRD</td>
+				<td> 600000000</td>
+				<td>06.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 602000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 602001000</td>
+				<td>DPTO. ANALISIS CLINICO GRD</td>
+				<td> 602000000</td>
+				<td>06.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 602001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 602001001</td>
+				<td>DPTO. ANALISIS CLINICO GRD</td>
+				<td> 602001000</td>
+				<td>06.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 602001002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>15</td>
+				<td>DPTO. ANALISIS CLINICO GRD</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603000000</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td> 600000000</td>
+				<td>06.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 603000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603001000</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td> 603000000</td>
+				<td>06.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 603001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603001001</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td> 603001000</td>
+				<td>06.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 603001002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>16</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603002000</td>
+				<td>UNIDAD ADMISION</td>
+				<td> 603000000</td>
+				<td>06.03.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 603002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603002001</td>
+				<td>UNIDAD ADMISION</td>
+				<td> 603002000</td>
+				<td>06.03.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 603002002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>16</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603003000</td>
+				<td>UNIDAD ARCHIVO</td>
+				<td> 603000000</td>
+				<td>06.03.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 603003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603003001</td>
+				<td>UNIDAD ARCHIVO</td>
+				<td> 603003000</td>
+				<td>06.03.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 603003002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>16</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603004000</td>
+				<td>UNIDAD GES</td>
+				<td> 603000000</td>
+				<td>06.03.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 603004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603004001</td>
+				<td>UNIDAD GES</td>
+				<td> 603004000</td>
+				<td>06.03.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 603004002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>16</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603005000</td>
+				<td>UNIDAD LISTA DE ESPERA</td>
+				<td> 603000000</td>
+				<td>06.03.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 603005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 603005001</td>
+				<td>UNIDAD LISTA DE ESPERA</td>
+				<td> 603005000</td>
+				<td>06.03.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 603005002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>16</td>
+				<td>DPTO. GESTION DE LA DEMANDA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 604000000</td>
+				<td>DPTO. GEST/INFO Y ESTADISTICA</td>
+				<td> 600000000</td>
+				<td>06.04.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 604000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 604001000</td>
+				<td>DPTO. GESTION ESTADISTICA</td>
+				<td> 604000000</td>
+				<td>06.04.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 604001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 604001001</td>
+				<td>DPTO. GESTION ESTADISTICA</td>
+				<td> 604001000</td>
+				<td>06.04.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 604001002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>17</td>
+				<td>DPTO. GEST/INFO Y ESTADISTICA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605000000</td>
+				<td>DPTO.PLANIF/CONTROL DE GESTION</td>
+				<td> 600000000</td>
+				<td>06.05.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 605000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605001000</td>
+				<td>UNID. CONTROL PRODUCCION</td>
+				<td> 605000000</td>
+				<td>06.05.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 605001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605001001</td>
+				<td>UNID. CONTROL PRODUCCION</td>
+				<td> 605001000</td>
+				<td>06.05.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 605001002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>18</td>
+				<td>DPTO.PLANIF/CONTROL DE GESTION</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605002000</td>
+				<td>UNID.GEST.RIESGO/CONTROL INTER</td>
+				<td> 605000000</td>
+				<td>06.05.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 605002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605002001</td>
+				<td>UNID.GEST.RIESGO/CONTROL INTER</td>
+				<td> 605002000</td>
+				<td>06.05.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 605002002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>18</td>
+				<td>DPTO.PLANIF/CONTROL DE GESTION</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605003000</td>
+				<td>DPTO. PLANIF/ CONTROL GESTION</td>
+				<td> 605000000</td>
+				<td>06.05.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 605003001</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>18</td>
+				<td>DPTO.PLANIF/CONTROL DE GESTION</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 605003001</td>
+				<td>DPTO.PLANIF/CONTROL GESTION</td>
+				<td> 605003000</td>
+				<td>06.05.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 605003002</td>
+				<td>N</td>
+				<td>6</td>
+				<td>SUB. GESTION HOSPITALARIA</td>
+				<td>18</td>
+				<td>DPTO.PLANIF/CONTROL DE GESTION</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 700000000</td>
+				<td>SUB.INNOVACION Y DESARROLLO</td>
+				<td>         0</td>
+				<td>07.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 700000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 701000000</td>
+				<td>SUB.INNOVACION Y DESARROLLO</td>
+				<td> 700000000</td>
+				<td>07.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 701000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 701001000</td>
+				<td>SUB.INNOVACION Y DESARROLLO</td>
+				<td> 701000000</td>
+				<td>07.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 701001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 701001001</td>
+				<td>SUB.INNOVACION Y DESARROLLO</td>
+				<td> 701001000</td>
+				<td>07.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 701001002</td>
+				<td>S</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>19</td>
+				<td>DPTO.GES/PROCESO OPERACIONALES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 702000000</td>
+				<td>DPTO.GES/PROCESO OPERACIONALES</td>
+				<td> 700000000</td>
+				<td>07.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 702000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 702001000</td>
+				<td>DPTO.GES/PROCESO OPERACIONALES</td>
+				<td> 702000000</td>
+				<td>07.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 702001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 702001001</td>
+				<td>DPTO.GES/PROCESO OPERACIONALES</td>
+				<td> 702001000</td>
+				<td>07.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 702001002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>19</td>
+				<td>DPTO.GES/PROCESO OPERACIONALES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 703000000</td>
+				<td>DPTO. GESTION DE PROYECTOS</td>
+				<td> 700000000</td>
+				<td>07.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 703000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 703001000</td>
+				<td>DPTO. GESTION DE PROYECTOS</td>
+				<td> 703000000</td>
+				<td>07.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 703001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 703001001</td>
+				<td>DPTO. GESTION DE PROYECTOS</td>
+				<td> 703001000</td>
+				<td>07.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 703001002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>19</td>
+				<td>DPTO.GES/PROCESO OPERACIONALES</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 704000000</td>
+				<td>DPTO. SIDRA</td>
+				<td> 700000000</td>
+				<td>07.04.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 704000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 704001000</td>
+				<td>DPTO. SIDRA</td>
+				<td> 704000000</td>
+				<td>07.04.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 704001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 704001001</td>
+				<td>DPTO. SIDRA</td>
+				<td> 704001000</td>
+				<td>07.04.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 704001002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>21</td>
+				<td>DPTO. SIDRA</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705000000</td>
+				<td>DPTO. TIC</td>
+				<td> 700000000</td>
+				<td>07.05.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 705000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705001000</td>
+				<td>DPTO. TIC</td>
+				<td> 705000000</td>
+				<td>07.05.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 705001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705001001</td>
+				<td>DPTO. TIC</td>
+				<td> 705001000</td>
+				<td>07.05.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 705001002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>23</td>
+				<td>DPTO. TIC</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705002000</td>
+				<td>TIC CONECTIVIDAD Y REDES</td>
+				<td> 705000000</td>
+				<td>07.05.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 705002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705002001</td>
+				<td>TIC CONECTIVIDAD Y REDES</td>
+				<td> 705002000</td>
+				<td>07.05.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 705002002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>23</td>
+				<td>DPTO. TIC</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705003000</td>
+				<td>TIC DESARROLLO DE SOFTWARE</td>
+				<td> 705000000</td>
+				<td>07.05.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 705003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705003001</td>
+				<td>TIC DESARROLLO DE SOFTWARE</td>
+				<td> 705003000</td>
+				<td>07.05.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 705003002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>23</td>
+				<td>DPTO. TIC</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705004000</td>
+				<td>TIC SEGURIDAD INFORMÁTICA</td>
+				<td> 705000000</td>
+				<td>07.05.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 705004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705004001</td>
+				<td>TIC SEGURIDAD INFORMÁTICA</td>
+				<td> 705004000</td>
+				<td>07.05.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 705004002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>23</td>
+				<td>DPTO. TIC</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705005000</td>
+				<td>TIC SOPORTE INFORMATICO SIST</td>
+				<td> 705000000</td>
+				<td>07.05.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 705005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 705005001</td>
+				<td>TIC SOPORTE INFORMATICO SIST</td>
+				<td> 705005000</td>
+				<td>07.05.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 705005002</td>
+				<td>N</td>
+				<td>7</td>
+				<td>SUB. INNOVACION Y DESARROLLO</td>
+				<td>23</td>
+				<td>DPTO. TIC</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 800000000</td>
+				<td>OTROS</td>
+				<td>         0</td>
+				<td>08.00.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 800000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801000000</td>
+				<td>GREMIOS</td>
+				<td> 800000000</td>
+				<td>08.01.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 801000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801001000</td>
+				<td>CAPITULO MEDICO</td>
+				<td> 801000000</td>
+				<td>08.01.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 801001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801001001</td>
+				<td>CAPITULO MEDICO</td>
+				<td> 801001000</td>
+				<td>08.01.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 801001002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801002000</td>
+				<td>CONFENATS</td>
+				<td> 801000000</td>
+				<td>08.01.002.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 801002001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801002001</td>
+				<td>CONFENATS</td>
+				<td> 801002000</td>
+				<td>08.01.002.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 801002002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801003000</td>
+				<td>FENATS</td>
+				<td> 801000000</td>
+				<td>08.01.003.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 801003001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801003001</td>
+				<td>FENATS</td>
+				<td> 801003000</td>
+				<td>08.01.003.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 801003002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801004000</td>
+				<td>FENPRUSS</td>
+				<td> 801000000</td>
+				<td>08.01.004.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 801004001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801004001</td>
+				<td>FENPRUSS</td>
+				<td> 801004000</td>
+				<td>08.01.004.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 801004002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801005000</td>
+				<td>FENTESS</td>
+				<td> 801000000</td>
+				<td>08.01.005.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 801005001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801005001</td>
+				<td>FENTESS</td>
+				<td> 801005000</td>
+				<td>08.01.005.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 801005002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 801005002</td>
+				<td>ASENF</td>
+				<td> 801005000</td>
+				<td>08.01.005.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 801005003</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 802000000</td>
+				<td>HOSPITAL ANTIGUO</td>
+				<td> 800000000</td>
+				<td>08.02.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 802000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 802001000</td>
+				<td>HOSPITAL ANTIGUO</td>
+				<td> 802000000</td>
+				<td>08.02.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 802001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 802001001</td>
+				<td>HOSPITAL ANTIGUO</td>
+				<td> 802001000</td>
+				<td>08.02.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 802001002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>25</td>
+				<td>HOSPITAL ANTIGUO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 803000000</td>
+				<td>MEL</td>
+				<td> 800000000</td>
+				<td>08.03.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 803000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 803001000</td>
+				<td>MEL</td>
+				<td> 803000000</td>
+				<td>08.03.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 803001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 803001001</td>
+				<td>MEL</td>
+				<td> 803001000</td>
+				<td>08.03.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 803001002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>26</td>
+				<td>MEL</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 804000000</td>
+				<td>POLIDEPORTIVO SERVISALUD</td>
+				<td> 800000000</td>
+				<td>08.04.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 804000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 804001000</td>
+				<td>POLIDEPORTIVO SERVISALUD</td>
+				<td> 804000000</td>
+				<td>08.04.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 804001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 804001001</td>
+				<td>POLIDEPORTIVO SERVISALUD</td>
+				<td> 804001000</td>
+				<td>08.04.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 804001002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>27</td>
+				<td>POLIDEPORTIVO SERVISALUD</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 805000000</td>
+				<td>HOGAR DE LA EMBARAZADA</td>
+				<td> 800000000</td>
+				<td>08.05.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 805000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 805001000</td>
+				<td>HOGAR DE LA EMBARAZADA</td>
+				<td> 805000000</td>
+				<td>08.05.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 805001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 805001001</td>
+				<td>HOGAR DE LA EMBARAZADA</td>
+				<td> 805001000</td>
+				<td>08.05.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 805001002</td>
+				<td>N</td>
+				<td>2</td>
+				<td>SUBDIRECCION ADMINISTRATIVA</td>
+				<td>4</td>
+				<td>PROCESO APOYO ADMINISTRATIVO</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 805001002</td>
+				<td>PAI DESARROLLA</td>
+				<td> 805001000</td>
+				<td>08.05.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 805001003</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806000000</td>
+				<td>SAMU</td>
+				<td> 800000000</td>
+				<td>08.06.000.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 806000001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001000</td>
+				<td>SAMU</td>
+				<td> 806000000</td>
+				<td>08.06.001.000</td>
+				<td>T</td>
+				<td>Título</td>
+				<td> 806001001</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001001</td>
+				<td>SAMU</td>
+				<td> 806001000</td>
+				<td>08.06.001.001</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001002</td>
+				<td>N</td>
+				<td>8</td>
+				<td>OTROS</td>
+				<td>24</td>
+				<td>GREMIOS</td>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001002</td>
+				<td>CESFAM CARÉN</td>
+				<td> 806001000</td>
+				<td>08.06.001.002</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001003</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001003</td>
+				<td>CESFAM CHAÑARAL ALTO</td>
+				<td> 806001000</td>
+				<td>08.06.001.003</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001004</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001004</td>
+				<td>CESFAM EL PALQUI</td>
+				<td> 806001000</td>
+				<td>08.06.001.004</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001005</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001005</td>
+				<td>CESFAM MONTE PATRIA</td>
+				<td> 806001000</td>
+				<td>08.06.001.005</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001006</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001006</td>
+				<td>CECOF COLONIA LIMARI</td>
+				<td> 806001000</td>
+				<td>08.06.001.006</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001007</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001007</td>
+				<td>CESFAM LA DEHESA</td>
+				<td> 806001000</td>
+				<td>08.06.001.007</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001008</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001008</td>
+				<td>CECOF LIMARÍ</td>
+				<td> 806001000</td>
+				<td>08.06.001.008</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001009</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001009</td>
+				<td>CECOF LOS COPIHUES</td>
+				<td> 806001000</td>
+				<td>08.06.001.009</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001010</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001010</td>
+				<td>CESFAM CERRILLOS DE TAMAYA</td>
+				<td> 806001000</td>
+				<td>08.06.001.010</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001011</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001011</td>
+				<td>CESFAM FRAY JORGE</td>
+				<td> 806001000</td>
+				<td>08.06.001.011</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001012</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001012</td>
+				<td>CESFAM JORGE JORDAN</td>
+				<td> 806001000</td>
+				<td>08.06.001.012</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001013</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001013</td>
+				<td>CESFAM MARCOS MACUADA</td>
+				<td> 806001000</td>
+				<td>08.06.001.013</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001014</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001014</td>
+				<td>CESFAM SOTAQUI</td>
+				<td> 806001000</td>
+				<td>08.06.001.014</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001015</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001015</td>
+				<td>POSTA DE SALUD RURAL CAMARICO</td>
+				<td> 806001000</td>
+				<td>08.06.001.015</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001016</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001016</td>
+				<td>CESFAM PUNITAQUI</td>
+				<td> 806001000</td>
+				<td>08.06.001.016</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001017</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001017</td>
+				<td>CESFAM PICHASCA</td>
+				<td> 806001000</td>
+				<td>08.06.001.017</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001018</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001018</td>
+				<td>PSR TABAQUEROS</td>
+				<td> 806001000</td>
+				<td>08.06.001.018</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001019</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001019</td>
+				<td>PSR SAMO ALTO</td>
+				<td> 806001000</td>
+				<td>08.06.001.019</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001020</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001020</td>
+				<td>PSR SERON</td>
+				<td> 806001000</td>
+				<td>08.06.001.020</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001021</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+			<tr>
+				<td> 806001021</td>
+				<td>PSR EL CHAÑAR</td>
+				<td> 806001000</td>
+				<td>08.06.001.021</td>
+				<td>I</td>
+				<td>Imputable</td>
+				<td> 806001022</td>
+				<td>N</td>
+				<td/>
+				<td/>
+				<td/>
+				<td/>
+				<td>         0</td>
+			</tr>
+		</table border="1">
+	</body>
+</html>
